@@ -9,4 +9,7 @@ public class Main {
         i+=10;
         System.out.println(i);
     }
+    void commit(){
+        System.out.println("女人");
+    }
 }
